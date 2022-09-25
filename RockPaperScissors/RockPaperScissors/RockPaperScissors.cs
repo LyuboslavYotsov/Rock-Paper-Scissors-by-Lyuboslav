@@ -80,6 +80,7 @@ namespace RockPaperScissors
                 {
                     newGame = false;
                 }
+                Console.Clear();
             }
             Console.WriteLine($"Final score is: Player -> {playerScore} | Computer -> {computerScore}");
 
