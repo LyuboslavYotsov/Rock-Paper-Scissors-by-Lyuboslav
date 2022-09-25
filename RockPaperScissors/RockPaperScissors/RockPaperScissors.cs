@@ -13,10 +13,11 @@ namespace RockPaperScissors
             int playerScore = 0;
             int computerScore = 0;
             bool newGame = true;
+            
 
             while (newGame)
             {
-
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Choose [r]ock, [p]aper or [s]cissors: ");
                 string playerMove = Console.ReadLine();
 
@@ -59,6 +60,7 @@ namespace RockPaperScissors
                     playerMove == paper && computerMove == rock ||
                     playerMove == scissors && computerMove == paper)
                 {
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("You win.");
                     playerScore++;
                 }
@@ -66,14 +68,16 @@ namespace RockPaperScissors
                    playerMove == rock && computerMove == paper ||
                    playerMove == paper && computerMove == scissors)
                 {
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("You lose.");
                     computerScore++;
                 }
                 else
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkYellow;
                     Console.WriteLine("This game was a draw.");
                 }
-
+                Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine("[n]ew game or [q]uit.");
                 string newGameCoice = Console.ReadLine();
                 if (newGameCoice == "q" || newGameCoice == "quit")
@@ -82,6 +86,7 @@ namespace RockPaperScissors
                 }
                 Console.Clear();
             }
+            Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine($"Final score is: Player -> {playerScore} | Computer -> {computerScore}");
 
           
