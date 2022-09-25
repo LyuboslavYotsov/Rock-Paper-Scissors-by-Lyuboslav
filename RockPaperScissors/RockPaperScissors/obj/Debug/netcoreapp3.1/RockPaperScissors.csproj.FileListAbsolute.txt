@@ -12,3 +12,17 @@ C:\Users\Luboslav\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\net
 C:\Users\Luboslav\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
 C:\Users\Luboslav\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
 C:\Users\Luboslav\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\Users\Luboslav\Documents\GitHub\Rock-Paper-Scissors-by-Lyuboslav\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache
